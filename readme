@@ -1,0 +1,15 @@
+# Assignment 2
+name: Alif Merchant
+id: 1113741
+
+## Build and Run
+
+### Use the following command to create all the executable files:
+-> make all
+
+
+### To run the programs, use the following syntax:
+./ProgramName fileName.txt
+
+example:
+-> ./P11 data.txt
